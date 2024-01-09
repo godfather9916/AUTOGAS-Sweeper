@@ -11,7 +11,7 @@ Gas fee is selected by the script to beat your competitor
 
 Very easy to use and setup
 
-For easy purchase, hit me up, price is 200$ only
+For easy purchase, hit me up
 
 **TELEGRAM: https://t.me/rashtug0**
 
