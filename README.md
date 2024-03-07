@@ -1,6 +1,7 @@
 # AUTOGAS-Sweeper
 This autogas sweeper is one of the best in the market, very fast and use autogas to beat your competitor
 
+coded in Javascript
 
 It transfers on all EVM from your target wallet instantly to yours.
 
