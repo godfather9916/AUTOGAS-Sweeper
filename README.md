@@ -3,7 +3,7 @@
 
 **This autogas sweeper is one of the best in the market, very fast and use autogas to beat your competitor**
 
-we have the javasript version and the python version 
+we have the javasript version and the python versions 
 
 It transfers on all EVM from your target wallet instantly to yours.
 
