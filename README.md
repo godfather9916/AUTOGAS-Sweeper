@@ -8,7 +8,7 @@ we have the javasript version and the python version
 It transfers on all EVM from your target wallet instantly to yours.
 
 
-Gas fee is selected by the script to beat your competitors
+Gas fee is selected by the script to beat your competitor
 
 
 **IT WORK FOR ALL EVM NETWORK**
